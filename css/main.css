@@ -1,3 +1,15 @@
+.redline-callout {
+  /* border-width: 0 0 0 125em;
+  border-style: solid;
+  border-color:#f00; */
+  /* padding: 1em; */
+  padding-left: 1em;
+  border-left: .125em solid #f00;
+  margin: 0 0 0 -1.125em;
+}
+
+/* selector of (element) */
+
 mark {
-background-color: pink;
+
 }
